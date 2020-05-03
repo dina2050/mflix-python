@@ -1,0 +1,3 @@
+{
+  "tests/test_migration.py::test_proper_type": true
+}
